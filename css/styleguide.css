@@ -1,0 +1,25 @@
+:root {
+  --mercury: #e4e4e4;
+  --tacha: #d7c25f;
+  --white: #ffffff;
+
+  --font-size-m: 14px;
+  --font-size-s: 11px;
+  --font-size-xs: 9px;
+
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-mercury-14px {
+  color: var(--mercury);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}

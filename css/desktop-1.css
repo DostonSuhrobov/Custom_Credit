@@ -1,0 +1,393 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  align-items: center;
+  background-color: #0c0c0c;
+  display: flex;
+  flex-direction: column;
+  height: 1421px;
+  mix-blend-mode: normal;
+  padding: 44px 52px;
+  width: 1440px;
+}
+.desktop-1 .build-your-card {
+  letter-spacing: 0;
+  min-height: 16px;
+  min-width: 120px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .card-type-logo-here {
+  color: var(--tacha);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-bottom: 3px;
+  margin-left: 27px;
+  min-height: 26px;
+  min-width: 53px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .chip-1 {
+  height: 45px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 53px;
+}
+.desktop-1 .colors {
+  align-items: flex-end;
+  display: flex;
+  height: 33px;
+  justify-content: center;
+  margin-left: 5.0px;
+  margin-top: 82px;
+  min-width: 603px;
+}
+.desktop-1 .colors-item {
+  height: 41px;
+  margin-bottom: -8px;
+  margin-left: 17px;
+  width: 140px;
+}
+
+.desktop-1 .colors-item:hover {
+  height: 45px;
+  margin-bottom: -8px;
+  margin-left: 17px;
+  width: 145px;
+}
+
+.desktop-1 .contact-us {
+  letter-spacing: 0;
+  margin-left: 36px;
+  min-height: 16px;
+  min-width: 86px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .faq {
+  letter-spacing: 0;
+  margin-left: 36px;
+  min-height: 16px;
+  min-width: 28px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .final-production {
+  letter-spacing: 0;
+  margin-left: 129px;
+  min-height: 16px;
+  min-width: 131px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 116px;
+  width: 112px;
+}
+.desktop-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  margin-right: 28.0px;
+  margin-top: 34px;
+  min-width: 1220px;
+}
+.desktop-1 .flex-row-1 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  height: 116px;
+  margin-right: 11.0px;
+  margin-top: 25px;
+  min-width: 322px;
+}
+.desktop-1 .flex-row-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 96px;
+  margin-top: 12px;
+  min-width: 1335px;
+}
+.desktop-1 .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 44.67px;
+  margin-top: 144px;
+  min-width: 1239px;
+}
+.desktop-1 .good-through {
+  color: var(--tacha);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-left: 35px;
+  min-height: 23px;
+  min-width: 45px;
+  mix-blend-mode: normal;
+  width: 45px;
+}
+.desktop-1 .icon {
+  height: 133px;
+  margin-left: 133px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 146px;
+}
+.desktop-1 .icon-1 {
+  height: 133px;
+  margin-left: 117px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 146px;
+}
+.desktop-1 .iconbuild-1-1 {
+  height: 133px;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  width: 155px;
+}
+.desktop-1 .login-signup {
+  letter-spacing: 0;
+  margin-left: 36px;
+  min-height: 16px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .logo {
+  height: 41px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  width: 176px;
+}
+.desktop-1 .logo-1 {
+  height: 41px;
+  left: 16px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 176px;
+}
+.desktop-1 .logo-2 {
+  height: 41px;
+  left: 10px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 26px;
+  width: 176px;
+}
+.desktop-1 .matt-black {
+  height: 41px;
+  margin-bottom: -8px;
+  width: 140px;
+}
+
+.desktop-1 .matt-black:hover {
+  
+  height: 46px;
+  margin-bottom: -8px;
+  width: 145px;
+}
+
+.desktop-1 .nav {
+  align-items: flex-start;
+  display: flex;
+  height: 99px;
+  left: 0;
+  min-width: 946px;
+  position: absolute;
+  top: 0;
+}
+.desktop-1 .nav-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 99px;
+  left: 0;
+  min-width: 954px;
+  position: absolute;
+  top: 0;
+}
+.desktop-1 .order-gallery {
+  letter-spacing: 0;
+  margin-left: 36px;
+  min-height: 16px;
+  min-width: 109px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .order-now {
+  color: #000000;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 16px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-2@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.0px;
+  margin-top: 47px;
+  min-height: 229px;
+  padding: 21px 6px;
+  width: 379px;
+}
+.desktop-1 .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-6@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 53px;
+  justify-content: flex-end;
+  margin-top: 47px;
+  min-width: 138px;
+  padding: 15px 27px;
+}
+.desktop-1 .overlap-group2 {
+  height: 99px;
+  margin-left: 2.0px;
+  margin-top: 198px;
+  position: relative;
+  width: 946px;
+}
+.desktop-1 .overlap-group3 {
+  height: 99px;
+  margin-left: 12.0px;
+  position: relative;
+  width: 954px;
+}
+.desktop-1 .overlap-group4 {
+  align-items: flex-start;
+  background-color: #a1b5c21a;
+  border-radius: 10px;
+  box-shadow: 0px 3px 3px #00000040;
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  min-width: 942px;
+  padding: 41px 57px;
+}
+.desktop-1 .overlap-group4-1 {
+  align-items: flex-end;
+  background-color: #a1b5c21a;
+  border-radius: 10px;
+  box-shadow: 0px 3px 3px #00000040;
+  display: flex;
+  height: 99px;
+  justify-content: flex-end;
+  min-width: 942px;
+  padding: 41px 42px;
+}
+.desktop-1 .phone-267-362-8030 {
+  letter-spacing: 0;
+  min-height: 16px;
+  min-width: 138px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .place {
+  letter-spacing: 0;
+  min-height: 16px;
+  min-width: 42px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .pre-built-design {
+  letter-spacing: 0;
+  margin-left: 36px;
+  min-height: 16px;
+  min-width: 121px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .receive-your-card {
+  letter-spacing: 0;
+  margin-left: 136px;
+  min-height: 16px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .send-us-your-card {
+  letter-spacing: 0;
+  margin-left: 170px;
+  min-height: 16px;
+  min-width: 138px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .text-1 {
+  letter-spacing: 0;
+  margin-left: 51px;
+  min-height: 16px;
+  min-width: 174px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .text-2 {
+  color: var(--tacha);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-bottom: 3px;
+  margin-left: 10px;
+  min-height: 16px;
+  min-width: 40px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .text-3 {
+  color: #c8c8c8;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 64px;
+  min-width: 231px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .text-4 {
+  letter-spacing: 0;
+  margin-left: 83px;
+  min-height: 96px;
+  min-width: 191px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .text-5 {
+  letter-spacing: 0;
+  margin-left: 56px;
+  min-height: 96px;
+  min-width: 233px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .text-6 {
+  letter-spacing: 0;
+  margin-left: 46px;
+  min-height: 80px;
+  min-width: 240px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .text-7 {
+  letter-spacing: 0;
+  margin-left: 20px;
+  min-height: 48px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .transfer-emv-data {
+  letter-spacing: 0;
+  margin-left: 110px;
+  min-height: 16px;
+  min-width: 146px;
+  mix-blend-mode: normal;
+}
+.desktop-1 .your-name-here {
+  align-self: flex-end;
+  color: var(--tacha);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-top: 55px;
+  min-height: 16px;
+  min-width: 105px;
+  mix-blend-mode: normal;
+}
